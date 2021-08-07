@@ -1,6 +1,6 @@
 # Otros proyectos
 
-## Patrones de tendencia entre consumos de frutas, verduras, carne de res, carne de cerdo, café y tabaco, con incidencia de cáncer gástrico en colombia
+### Proyecto *"Patrones de tendencia entre consumos de frutas, verduras, carne de res, carne de cerdo, café y tabaco, con incidencia de cáncer gástrico en colombia"*
 
 Finalistas en el 4to concurso de investigación Hernando Sarasti. 
 
