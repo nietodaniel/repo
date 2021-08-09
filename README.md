@@ -1,4 +1,4 @@
-# Other projects
+# Daniel Nieto - Other projects
 
 ### Project *"Trend patterns between consumption of fruits, vegetables, beef, pork, coffee and tobacco, with incidence of gastric cancer in Colombia"*
 
