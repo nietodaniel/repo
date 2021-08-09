@@ -1,6 +1,6 @@
 # Daniel Nieto - Other projects
 
-### Project *"Trend patterns between consumption of fruits, vegetables, beef, pork, coffee and tobacco, with incidence of gastric cancer in Colombia"*
+### * Project *"Trend patterns between consumption of fruits, vegetables, beef, pork, coffee and tobacco, with incidence of gastric cancer in Colombia"*
 
 Finalists in the 4th researching contest Hernando Sarasti, promoted by the Colombian association of Oncology and Hematology (ACHO)
 
@@ -11,7 +11,7 @@ Finalists in the 4th researching contest Hernando Sarasti, promoted by the Colom
 
 We used artificial intelligence techniques such as Self Organizing Maps (SOM), Kmeans clustering and hierarchical clustering to generate the profiles of asociation between the consumption of a variety of foods and substances and the stomach cancer index per capita
 
-### Project *"Nature Engine: Simulator for evolution researchers"*
+### * Project *"Nature Engine: Simulator for evolution researchers"*
 
 Project of the course MultiAgent Systems.
 
