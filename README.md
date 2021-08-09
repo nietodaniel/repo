@@ -1,11 +1,20 @@
-# Otros proyectos
+# Other projects
 
-### Proyecto *"Patrones de tendencia entre consumos de frutas, verduras, carne de res, carne de cerdo, café y tabaco, con incidencia de cáncer gástrico en colombia"*
+### Project *"Trend patterns between consumption of fruits, vegetables, beef, pork, coffee and tobacco, with incidence of gastric cancer in Colombia"*
 
-Finalistas en el 4to concurso de investigación Hernando Sarasti. 
+Finalists in the 4th researching contest Hernando Sarasti, promoted by the Colombian association of Oncology and Hematology (ACHO)
 
-* **[Ver diapositivas](https://github.com/nietodaniel/repo/blob/main/presentacion%20(1).pdf)**
-* **[Ver certificado](https://github.com/nietodaniel/repo/blob/main/PROYECTO%20535%20CERTIFICACION.pdf)**
-* **[Ver abstract](https://github.com/nietodaniel/repo/blob/main/Resumen.pdf)**
 
-Utilizamos técnicas de inteligencia artificial (Clusterización, Self Organizing Maps) para generar perfiles de asociación entre el consumo de diversas sustancias y alimentos y la incidencia per capita de cáncer
+* **[See presentation](https://github.com/nietodaniel/repo/blob/main/presentacion%20(1).pdf)**
+* **[See certificate](https://github.com/nietodaniel/repo/blob/main/PROYECTO%20535%20CERTIFICACION.pdf)**
+* **[See scientific abstract](https://github.com/nietodaniel/repo/blob/main/Resumen.pdf)**
+
+We used artificial intelligence techniques such as Self Organizing Maps (SOM), Kmeans clustering and hierarchical clustering to generate the profiles of asociation between the consumption of a variety of foods and substances and the stomach cancer index per capita
+
+### Project *"Nature Engine: Simulator for evolution researches"*
+
+Project of the course MultiAgent Systems.
+
+* **[See presentation](https://github.com/nietodaniel/repo/blob/main/presentacion%20(1).pdf)**
+
+This project seeks to build a tool with the latest technological advances and optimizations, which permits evolution researches to expand their capabilities and projects to a new level. It was initially built in Java, then recoded to unity/C#
